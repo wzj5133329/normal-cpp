@@ -1,3 +1,5 @@
+
+//count用来记录文件数
 void scanFile(string szDir,vector<string>& files,vector<string> &filenames,int &count)
 {
     

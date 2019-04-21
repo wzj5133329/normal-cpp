@@ -1,5 +1,5 @@
 
-//count用来记录文件数
+// szDir遍历的文件夹  files：带有绝对地址的文件名 filenames ：带有子文件夹名的文件   count用来记录文件数 
 void scanFile(string szDir,vector<string>& files,vector<string> &filenames,int &count)
 {
     
